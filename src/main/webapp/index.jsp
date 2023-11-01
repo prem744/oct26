@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>First freestyle Job deploy using jenkins!</h2>
+<h2>New changes done by praveen in jenkins!</h2>
 </body>
 </html>
