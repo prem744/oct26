@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>First deployment on pro using docker !</h2>
+<h2Test pipeline job !</h2>
 </body>
 </html>
